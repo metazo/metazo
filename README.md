@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=metazo&label=Profile%20views&color=0e75b6&style=flat" alt="metazo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=metazo" alt="metazo" /></a> </p>
-
+<img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
 - 🔭 I’m currently working on [MERN SOCIAL MEDIA](https://github.com/metazo/Social-media)
 
 - 🌱 I’m currently learning **Vue JS**
@@ -14,6 +14,7 @@
 - 📫 How to reach me **mouha.mboup-pro@hotmail.com**
 
 - 📄 Know about my experiences [med-dev.fr](med-dev.fr)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
