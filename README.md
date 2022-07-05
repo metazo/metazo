@@ -7,13 +7,11 @@
 <img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
 - 🔭 I’m currently working on [MERN SOCIAL MEDIA](https://github.com/metazo/Social-media)
 
-- 🌱 I’m currently learning **Vue JS**
-
-- 👨‍💻 All of my projects are available at [med-dev.fr](med-dev.fr)
+- 🌱 I’m currently learning **C language**
 
 - 📫 How to reach me **mouha.mboup-pro@hotmail.com**
 
-- 📄 Know about my experiences [med-dev.fr](med-dev.fr)
+- 📄 Know about my experiences [metazo.github.io](metazo.github.io)
 
 
 <h3 align="left">Connect with me:</h3>
