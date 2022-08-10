@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Mouhamed!;I'm+a+Full-Stack+Developer+Student...;And+I'm+a+proud+Senegalese+🇸🇳🇰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=50&lines=Hey!+It's+Mouhamed!;I'm+a+Full-Stack+Developer+Student...;And+I'm+a+proud+Senegalese+🇸🇳🇰)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=metazo&label=Profile%20views&color=0e75b6&style=flat" alt="metazo" /> </p>
 
