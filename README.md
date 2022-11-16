@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=20&lines=Hey!+It's+Mouhamed!;I'm+a+Full-Stack+Developer+Student...;And+I'm+a+proud+Senegalese+🇸🇳)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=20&lines=Hey!+It's+Mouhamed!;I'm+a+Full-Stack+Developer...;And+I'm+a+proud+Senegalese+🇸🇳)](https://git.io/typing-svg)
 
 
 <img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="Illustration Storyset" width=450/>
